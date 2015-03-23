@@ -1,4 +1,4 @@
-# Council
+#Council
 
 Council is a social app that makes decision making easy with realtime feedback from people you trust!
 
