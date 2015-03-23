@@ -1,3 +1,21 @@
 Council is a social app that makes decision making easy with realtime feedback from people you trust!
 
+Ruby on Rails app. Custom-built authentication. PostreSQL database. Features rich user experience such as the ability to vote on a photo with swiping. API designed to follow principles of REST.
 
+Login is required to vote on an image & to view the newsfeed.
+Feel free to login with the following demo account if you don't wish to sign up for your own:
+email - anna@gmail.com
+password - 1234
+
+Technologies used:
+• BCrypt
+• jQuery
+• AJAX
+• Self-join table
+• Complex Forms
+• File Upload
+• Complex SQL queries
+• Twitter Bootstrap with custom CSS
+• Rails RESTful API
+• Cookies
+• PostreSQL
