@@ -1,5 +1,5 @@
-#Council
-
+A First Level Header
+====================
 Council is a social app that makes decision making easy with realtime feedback from people you trust!
 
 Ruby on Rails app. Custom-built authentication. PostreSQL database. Features rich user experience such as the ability to vote on a photo with swiping. API designed to follow principles of REST.
