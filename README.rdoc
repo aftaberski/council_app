@@ -8,14 +8,14 @@ email - anna@gmail.com
 password - 1234
 
 Technologies used:
-• BCrypt
-• jQuery
-• AJAX
-• Self-join table
-• Complex Forms
-• File Upload
-• Complex SQL queries
-• Twitter Bootstrap with custom CSS
-• Rails RESTful API
-• Cookies
-• PostreSQL
+* BCrypt
+* jQuery
+* AJAX
+* Self-join table
+* Complex Forms
+* File Upload & Image Capture
+* Complex SQL queries
+* Twitter Bootstrap with custom CSS
+* Rails RESTful API
+* Cookies
+* PostreSQL
